@@ -1,0 +1,4 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "Monash Science Symposium Committee", description: "Lorem ipsum", link: "monash-sciencesymposium.com", imageUrl: "MSS-colour-logo.png"}

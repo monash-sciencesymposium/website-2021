@@ -1,0 +1,27 @@
+<!-- Abstract Acceptance Section -->
+<section id="abstract-acceptance" class="abstract-acceptance">
+	<div class="content-wrapper">
+		<div class="col-lg-8 col-lg-offset-2 text-center">
+			<h3>{{ site.abstractTitle }}</h3>
+			<p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.abstract1 }}</p>
+            {% for button in site.abstractButtons1 %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float text-left animated hiding" data-animation="fadeInUp" data-delay="0" {% if button.link != null %}target="_blank"{% endif %} style="margin: 8px">{{ button.text }}</a>
+            {% endfor %}
+            <br>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.abstract2 }}</p>
+            <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for step in site.abstractSubmissionSteps %}
+                <li> {{ step.step }} </li>
+                {% endfor %}
+            </ul>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.abstract3 }}</p>
+			<ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for step in site.abstractNextSteps %}
+                <li> {{ step.step }} </li>
+                {% endfor %}
+            </ul>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.abstract4 }}</p>
+            {% for button in site.abstractButtons2 %}
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float text-left animated hiding" data-animation="fadeInUp" data-delay="0" {% if button.link != null %}target="_blank"{% endif %} style="margin: 8px">{{ button.text }}</a>
+            {% endfor %}
+    </div>
+</section>
+<!-- End Abstract Acceptance Section -->

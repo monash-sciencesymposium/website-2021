@@ -1,0 +1,26 @@
+<!-- Key Dates Section -->
+<section id="key-dates" class="image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.keyDatesBlockImage }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2">
+            <h3 style="color: #fff">Key Dates</h3>
+            <div class="table row animated hiding" data-animation="fadeInDown" data-delay="0">
+                <table align="center" style="width:100%; font-size:18.2px; color:#fff; border-collapse:separate; border-spacing:10px; box-shadow: 0 0 20px rgba(0,0,0,0.5)">
+                    <tbody>
+                        <tr>
+                            <td>Date</td>
+                            <td>Description</td>
+                        </tr>
+                        {% for key in site.keyDates %}
+                        <tr>
+                            <td>{{ key.date }}</td>
+                            <td>{{ key.text }}</td>
+                        </tr>
+                            {% endfor %}
+                    </tbody>
+                </table> 
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Key Dates Section -->

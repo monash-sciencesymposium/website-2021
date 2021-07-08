@@ -1,0 +1,99 @@
+-
+ id: 30
+ name: "Qasim"
+ surname: "Ayub"
+ company: "Monash University Malaysia"
+ title: "Associate Professor and Deputy Head of School (Research) at the School of Science"
+ bio: "(Chair, Webinar 3) Dr. Qasim Ayub joined Monash University Malaysia in 2017. He trained as a clinician in Pakistan and obtained his doctorate from the University of North Texas, Denton, USA. He has worked in the USA, Pakistan, Italy and at the Wellcome Sanger Institute where he was a member of the Human Evolution Team. His research focuses on population and evolutionary genomics and he has published several high profile papers. Several of the novel male specific markers that he identified are now routinely used in forensic DNA identification. For this work he was awarded the President of Pakistan’s Medal of Excellence for contributions to science in 2006. He currently leads the Malaysian BioGenome Project that aims to generate high quality reference genomes for iconic Malaysian species. He is also characterizing DNA variations in the indigenous populations (Orang Asli) with the aim of understanding genetic basis of resistance or susceptibility to intestinal parasites."
+ thumbnailUrl: "QasimAyub.jpg"
+-
+ id: 31
+ name: "Fazilah Shaik"
+ surname: "Allaudin"
+ company: "Ministry of Health, Malaysia"
+ title: "Senior Deputy Director, Planning Division"
+ bio: '<p>(Speaker, Webinar 3) With over 25 years of experience in the Ministry of Health, Dr. Fazilah is presently the Senior Deputy Director of the Planning Division. Prior to this, she has held various leadership roles in Ministry of Health (MOH) and hospital.</p><p>For over a decade, she has been leading digital health & innovation strategies and collaborations both locally and internationally. She often represents Malaysia at regional and global platforms in digital health. A significant portion of her career has been in policy & strategy for health system transformation agenda, and project management mainly Hospital Information Systems.</p><p>At present, she leads the nationwide EMR project and the national agenda of Lifetime Health Record. She too advanced the digital agenda within the Malaysian COVID-19 response. Additionally, she drives policy and regulatory framework development in digital health & innovation.</p><p>Dr. Fazilah holds an M.D. from the National University of Malaysia and an MBA in Healthcare Administration from the University of Toledo, Ohio. She is professionally certified in Enterprise Architecture (TOGAF 9.0) and in Governance & Management of Enterprise IT (COBIT 5.0).</p>'
+ thumbnailUrl: "FazilahShaikAllaudin.jpg"
+ social:
+    - {name: "twitter", link: "https://twitter.com/fazilahallaudin?lang=en"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/drfazilah"}
+-
+ id: 32
+ name: "Hafez"
+ surname: "Naimun"
+ company: "Naluri"
+ title: "Business Development Manager"
+ bio: '<p>(Speaker, Webinar 3) Hafez is the Business Development Manager at Naluri, a leading digital therapeutics company that seeks to tackle the emotional, mental and physical needs of their users in an effort to improve overall health. At Naluri, he works closely with large corporates, insurers, healthcare providers and pharmaceutical companies to deliver affordable and convenient access to structured multidisciplinary health coaching to their populations, to achieve quantifiable health improvements across physical and mental health. In addition, he was previously a fitness coach and is passionate about helping people achieve their healthiest and best selves. Prior to Naluri, Hafez completed his Master’s degree in Management at the London School of Economics and the Yale School of Management.</p>'
+ thumbnailUrl: "HafezNaimun.jpg"
+-
+ id: 33
+ name: "Ting"
+ surname: "Chee Ming"
+ company: "Monash University Malaysia"
+ title: "Associate Professor at the School of Information Technology"
+ bio: '<p>(Speaker, Webinar 3) Dr. Ting Chee Ming is an Associate Professor in the School of Information Technology, Monash University Malaysia, specializing in machine learning and data science. He received his PhD in Mathematics, M.Eng. and B.Eng in electrical & electronic engineering. He was a Senior Lecturer with the School of Biomedical Engineering and Health Sciences, University Teknologi Malaysia from 2014 to 2020, and a Research Scientist with the Computer, Electrical and Mathematical Sciences & Engineering Division, King Abdullah University of Science and Technology from 2017 to 2018. Currently, he has appointment as an Honorary Senior Research Fellow at the Division of Psychology and Language Sciences, University College London. His research interests include signal & image processing, deep neural networks, and statistical models for networks with applications to neuroimaging and other biomedical data for automatic prediction of diseases and patient monitoring. Dr. Ting is a Senior Member of the IEEE Signal Processing Society.</p>'
+ thumbnailUrl: "TingCheeMing.jpg"
+-
+ id: 34
+ name: "Song"
+ surname: "Keang Peng"
+ company: "Monash University Malaysia"
+ title: "Professor, Deputy Head of School (Education)"
+ bio: "(Chair, Webinar 2) Associate Professor Song Keang Peng was Head of the School of Science (2008-2012) and currently serves as Deputy Head of School (Education) Monash Malaysia. His research expertise is in microbiology, molecular biology, molecular pathogenesis of bacterial diseases, regulation of bacterial toxin expression, epidemiology and pathogenesis of periodontal diseases. He published his work in renowned journals such as Frontiers in Microbiology, Microbiology (UK), Biochemical and Biophysical Research Communications and many more along with a US patent for the method of treating microorganisms in the oral cavity via photodynamic therapy employing a non-coherent light source. Currently, his research interests are in the molecular pathogenesis of infectious diseases, in particular periodontal diseases and pseudomembranous colitis."
+ thumbnailUrl: "SongKeangPeng.jpg"
+-
+ id: 35
+ name: "Elizabeth (Liz)"
+ surname: "Jones"
+ company: "Monash University Malaysia"
+ title: "Head of Department of Psychology"
+ bio: "(Speaker, Webinar 2) Professor Elizabeth Jones is the Head of the Department of Psychology at Monash University Malaysia. Previously, she worked for Griffith University in both Psychology and Business schools. SHe is also President of the International Association of Language and Social Psychology. SHe also researches life transitions, focusing on people's wellbeing and coping during life transitions. SHe also researches and consults in organisational change. She has received funding from the Australian Research Council and government departments including Health, Menzies Health Institute and Australian Office for Learning and Teaching."
+ thumbnailUrl: "ElizabethJones.jpg"
+-
+ id: 36
+ name: "Aida"
+ surname: "Syarinaz Binti Ahmad Adlan"
+ company: "University of Malaya"
+ title: "Senior Lecturer and Psychiatrist"
+ bio: "(Speaker, Webinar 2) Dr Aida Syarinaz Ahmad Adlan is a senior lecturer and psychiatrist in University Malaya Medical Centre. Her undergraduate medical degree, as well as her specialist degree in psychiatry, were obtained from the University of Malaya, where she is currently practising. She pursued her subspecialty training in Intensive Short Term Dynamic Psychotherapy in McGill University, Canada. Dr Aida is regularly invited to share her expertise on mental health awareness and issues for public and private events."
+ thumbnailUrl: "AidaSyarinazAhmadAdlan.jpeg"
+-
+ id: 37
+ name: "Winnie"
+ surname: "Chee Siew Swee"
+ company: "International Medical University"
+ title: "Dean, School of Health Sciences"
+ bio: "(Speaker, Webinar 2) Professor Winnie Chee is a Professor in the Department of Nutrition and Dietetics and the current Dean of the School of Health Sciences in International Medical University, Malaysia. Professor Chee is also the President of the Malaysian Dietitians' Association and recognised for her expertise in evidence-based diet and lifestyle management of chronic diseases including obesity and diabetes."
+ thumbnailUrl: "WinnieCheeSiewSwee.jpg"
+-
+ id: 38
+ name: "Sunil K."
+ surname: "Lal"
+ company: "Monash University Malaysia"
+ title: "Professor of Microbiology"
+ bio: '<p>(Chair, Webinar 1) Professor Suni Kumar Lal joined the School of Science in 2014. By training, he has a PhD in Microbial Genetics from Georgia Institute of Technology, Atlanta (USA) in 1989, following which he took up a Faculty appointment at the California Institute of Technology, Pasadena (USA). In 1994 he joined the International Centre for Genetic Engineering & Biotechnology (ICGEB), New Delhi as a Senior Research Scientist where he worked for 22 years. Professor Sunil is well known internationally for his research contributions in Tropical and Infectious Viral Diseases and have been a visitingscientist to Universiti Malaysia Sarawak, National University of Singapore, Karolinska Institute, Sweden and the Centers for Disease Control (CDC) Atlanta. His main research focus has been on host-virus interactions in Hepatitis E virus, SARS-Coronavirus and Influenza virus</p><p>Professor Sunil has been lucky enough to win many prestigious international awards and has been the ambassador to the American Society for Microbiology (ASM) for 9 years. He has also served as aBoard Member of the International Outreach Program of the ASM at Washington DC. He is an Elected Fellow of the National Academy of Sciences (India) and an elected member of the Central Council of the Indian Microbiologists Association. He has sat on the panel of many international science/university advisory committees and review panels for international scientific funding agencies. His research has produced over 100 publications in international scientific journals and he has published three international books on emerging viral diseases. He currently lead an active research group on Molecular Virology at Monash University, Malaysia.</p>'
+ thumbnailUrl: "SunilKLal.JPG"
+-
+ id: 39
+ name: "Wai Leng"
+ surname: "Lee"
+ company: "Monash University Malaysia"
+ title: "Senior Lecturer"
+ bio: '<p>(Speaker, Webinar 1) From botany to agricultural science, further in ethnopharmacology and now cancer cell biology, Dr Lee Wai Leng explored a great spectrum of biological studies in her professional development. Her current research focus on the study of cancer-derived exosomes. Among a variety of cell-derived vesicles, exosomes are the nanovesicles released from various cell types into the extracellular space for intercellular communication. These vesicles were reported to serve as vehicles for intercellular transfer of genetic material (mRNA, miRNA) or proteins. Lately, these vesicles were found to play significant role in cancer development. My research interests include:<ol><li>To study the role of exosome in cancer progression</li><li>To investigate the link between oncogenic mutation and exosome-mediated carcinogenesis</li><li>To explore exosome as a novel source of non-invasive cancer biomarkers given that the cancer-specific molecules were identified in the exosomes isolated from biological fluids such as urine, saliva, blood and breast milk.</li></ol>On the other hand, concerns about drug resistance and side effects of currently used therapeutic agents have raised interest in phytochemicals derived from dietary foods and traditional medicines which allow safe and continuing ingestion. Therefore her research also aims to discover the therapeutic use of local medicinal plant-derived phytochemicals in cancer treatment.</p>'
+ thumbnailUrl: "WaiLengLee.jpg"
+-
+ id: 40
+ name: "Arkendu"
+ surname: "Sen"
+ company: "JCSMHS, Monash University Malaysia"
+ title: "Associate Professor (JCSMHS), Academic Director (Educaiton Excellence)"
+ bio: '<p>(Speaker, Webinar 1) Dr Arkendu Sen is Associate Professor in Clinical Anatomy at Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia, an anatomist/ophthalmologist by training. Dr Sen is also a keen educationist and champion of education innovation and excellence. Presently as Academic Director, he is leading the Campus Education Excellence portfolio of Monash University Malaysia and as Fellow of the Monash Education Academy, he is keen to promote the Focus Education agenda.</p><p>His deep involvement in active learning, lifelong skills and integrating novel technology-enhanced methods has made him to apply “Blended Technology” in skills training especially in the context of the Malaysian Economic Transformation Programme and promoting Malaysian education sector’s recognition for excellence in technology-enhanced learning. He has also utilized such e-learning to skills learning and assessment along with his association with basic surgical examination through the College of Surgeons, Academy of Malaysia.</p><p>He has now successfully expanded his innovations to educational technology research with the ITEX 2018 Silver Medal and Ministry of Higher Education ERGS Grant (2011), external industry partnership and industry funding (2012) for pilot projects in the cutting edge smart practical learning labs and filing of patent (utility innovation) in 2013.</p><p>His innovations has been recognized by numerous teaching excellence awards. Working together with the School team, their innovative design of state-of-the art learning environment and novel learning strategies have been recognised as a teaching exemplar for the whole of Monash University Malaysia and as a showcase for distinguished visitors including the Governor of Victoria, Health Minister, Deputy Minister for Higher Education and the Prime Minister of Malaysia.</p>'
+ thumbnailUrl: "ArkenduSen.jpg"
+-
+ id: 41
+ name: "Vinod"
+ surname: "Balasubramaniam"
+ company: "JCSMHS, Monash University Malaysia"
+ title: "Senior Lecturer"
+ bio: '<p>(Speaker, Webinar 1) Dr Vinod RMT Balasubramaniam graduated from Asian Institute of Medicine, Science and Technology (AIMST) majoring in Biotechnology in 2007. During this period, he managed to publish several papers on plant genetic engineering, especially on genetically engineered orchids which have resistance towards fungus. In 2008, he worked as a research assistant with Associate Professor Sharifah Syed Hassan in her newly formed infectious disease laboratory in Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia.</p><p>Dr Vinod embarked on his PhD course a year later under her supervision working on the various host cellular genes infected with Avian Influenza Virus H5N1 and their protein-protein interactions with viral genes. He graduated with merit in 2014 and continued to work as a post-doctoral fellow in the laboratory of Associate Professor Sharifah before joining the laboratory of Professor Adolfo Garcia-Sastre in Mount Sinai hospital New York, which is one of the leading Influenza research laboratory in the world.</p><p>Throughout his graduate studies, he has acquired the skills and training in various advanced molecular biology and proteomics techniques such as yeast two hybrid system, reverse genetics, 2D Gel electrophoresis and lentiviral based screenings to dissect cross-talks between host cellular factors and viruses. He has co-authored various publications (Cell Host Microbe, Nature Microbiology, Plos Pathogens) on various aspects of host response towards different types of viruses. After his post-doctoral experience in the "Big Apple", he has returned to where it all started, back in Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia.</p>'
+ thumbnailUrl: "VinodBalasubramaniam.jpg"

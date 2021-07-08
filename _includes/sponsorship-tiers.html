@@ -1,0 +1,27 @@
+<!-- Begin Tickets Section -->
+<section id="tickets" class="tickets">
+	<div class="content-wrapper">
+		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
+			<h3>{{ site.sponsorshipTiersTitle }}</h3>
+            {% for tiers in site.sponsorshipTiers %}
+	            {% assign colWidth = 12 | divided_by: forloop.length %}
+	            {% assign check = forloop.index | modulo:2 %}
+	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}">
+					<div class="pricing-header">
+						<p class="title" style="color:{{ tiers.headerTextColor }}; background-color:{{ tiers.headerBackgroundColor }}">{{ tiers.name }}</p>
+					</div>
+					<div class="pricing-content">
+						<ul>
+							{% for listItem in tiers.benefitList %}
+							<li>{{ listItem }}</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+            {% endfor %}
+		<p>{{ site.sponorshipTiersNote1 }}</p>
+		<p>{{ site.sponorshipTiersNote2 }}</p>
+		</div>
+	</div>
+</section>
+<!-- End Tickets Section -->

@@ -1,0 +1,17 @@
+<!-- About MSS Section -->
+<section id="about-MSS" class="about-MSS" style="padding-bottom: 20px">
+	<div class="content-wrapper">
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <h3>{{ site.aboutMSSBlockTitle }}</h3>
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutMSS }}</p>
+            <br>
+            <h3 class="text-center animated hiding" data-animation="fadeInUp" data-delay="0">Objectives</h3>
+            <ul class="text-left animated hiding" data-animation="fadeInUp" data-delay="0"> {% for objective in site.objectives %}
+                <li> {{ objective.objective }} </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!-- End About MSS Section -->

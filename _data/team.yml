@@ -1,0 +1,168 @@
+- 
+  id: 0
+  name: "Heerman"
+  surname: "Kumar"
+  title: "Co-Chairperson"
+  thumbnailUrl: HeermanKumar.JPG
+  head: true
+- 
+  id: 1
+  name: "Isra"
+  surname: "Ahmad Farouk"
+  title: "Co-Chairperson"
+  thumbnailUrl: IsraAhmadFarouk.JPG
+  head: true
+- 
+  id: 2
+  name: "Nur Zawanah"
+  surname: "Zabidi"
+  title: "Secretary"
+  thumbnailUrl: NurZawanahZabidi.JPG
+  head: true
+- 
+  id: 3
+  name: "Nishat"
+  surname: "Anan"
+  title: "Assistant Secretary"
+  thumbnailUrl: NishatAnan.JPG
+  subTeam: true
+- 
+  id: 4
+  name: "Nurhamimah"
+  surname: "Misuan"
+  title: "Head of Treasury"
+  thumbnailUrl: NurhamimahMisuan.JPG
+  head: true
+- 
+  id: 5
+  name: "Yanning"
+  surname: "Yong"
+  title: "Internal Sponsorship Officer"
+  thumbnailUrl: YanningYong.JPG
+  subTeam: true
+-
+  id: 6
+  name: "Caleb"
+  surname: "Cheah"
+  title: "External Sponsorship Officer"
+  thumbnailUrl: CalebCheah.JPG
+  subTeam: true
+- 
+  id: 7
+  name: "Guggilla "
+  surname: "Mrudula"
+  title: "Head of Activities"
+  thumbnailUrl: GuggillaMrudula.JPG
+  head: true
+- 
+  id: 8
+  name: "Poi Yi"
+  surname: "Aw Yong"
+  title: "Head of Layout and Planning"
+  thumbnailUrl: PoiYiAwYong.JPG
+  subTeam: true
+- 
+  id: 9
+  name: "Towhid"
+  surname: "Hasan"
+  title: "Head of Appreciation"
+  thumbnailUrl: TowhidHasan.JPG
+  subTeam: true
+-   
+  id: 10
+  name: "Kirsty"
+  surname: "Illingworth"
+  title: "Head of Editorial 1"
+  thumbnailUrl: KirstyAnneIllingworth.JPG
+  head: true
+-
+  id: 11
+  name: "Madhuri"
+  surname: "Pulijala"
+  title: "Head of Editorial 2"
+  thumbnailUrl: MadhuriPulijala.JPG
+  head: true
+-
+  id: 12
+  name: "Ashwini"
+  surname: "Puniyamurti"
+  title: "Subcommittee member"
+  thumbnailUrl: AshwiniPuniyamurti.JPG
+  subTeam: true
+-
+  id: 13
+  name: "Mansura"
+  surname: "Mokbul"
+  title: "Subcommittee member"
+  thumbnailUrl: MansuraMokbul.JPG
+  subTeam: true
+-
+  id: 14
+  name: "Ru Wei"
+  surname: "Teoh"
+  title: "Head of Logistics"
+  thumbnailUrl: RuWeiTeoh.JPG
+  head: true
+-
+  id: 15
+  name: "Marjia"
+  surname: "Sultana"
+  title: "Head of Public Address"
+  thumbnailUrl: MarjiaSultana.JPG
+  subTeam: true
+-
+  id: 16
+  name: "Priyanka"
+  surname: "Parhi"
+  title: "Head of Publicity and Creative Design"
+  thumbnailUrl: PriyankaParhi.JPG
+  head: true
+-
+  id: 17
+  name: "Md Hamed"
+  surname: "Hussain"
+  title: "Head of Marketing and Merchandise 1"
+  thumbnailUrl: MdHamedHussain.JPG
+  subTeam: true
+-
+  id: 18
+  name: "Nazmul"
+  surname: "Muzahid"
+  title: "Head of Marketing and Merchandise 2"
+  thumbnailUrl: NazmulHasanMuzahid.JPG
+  subTeam: true
+-
+  id: 19
+  name: "Fadilla"
+  surname: "Wahyudi"
+  title: "Website Manager"
+  thumbnailUrl: FadillaWahyudi.JPG
+  subTeam: true
+-
+  id: 20
+  name: "Harpreet"
+  surname: "Kaur"
+  title: "Social Media Manager"
+  thumbnailUrl: HarpreetKaur.JPG
+  subTeam: true
+-
+  id: 21
+  name: "Gayan"
+  surname: "Chandrajith"
+  title: "Head of Venue and Facilities"
+  thumbnailUrl: GayanChandrajith.JPG
+  subTeam: true
+-
+  id: 22
+  name: "Li Wen (Vivian)"
+  surname: "Wong"
+  title: "Head of Logistics"
+  thumbnailUrl: "LiWenWong.png"
+  subTeam: true
+-
+  id: 23
+  name: "Wei Ping (Rex)"
+  surname: "Quek"
+  title: "Head of Food and Beverage"
+  thumbnailUrl: "WeiPingQuek.png"
+  subTeam: true
