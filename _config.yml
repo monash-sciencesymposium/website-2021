@@ -38,7 +38,6 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about-us/", text: "About Us"}
  - {permalink: "/speakers", text: "Speakers"}
-# - {permalink: "/getting-around/", text: "Getting Around"}
 bottomNavigationLinks:
 # - {link: "https://forms.gle/VXkd4uHN3hi81jvi7", text: "Register here"}
 rightNavigationButtons:
@@ -159,106 +158,6 @@ history1: "MSS was first held in 2013 as a gathering of local science graduate r
 history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
 history3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
 
-# Guidelines Block
-guidelinesTitle: "Guidelines"
-guidelines1: "MSS 2021 is a forum that will bring together innovative academics, researchers, students and other interested parties to discuss key topics and research findings from various fields in the world of science. With the slogan “<em>Symbiosis: Exploring Extraordinary Possibilities</em>“, the MSS organizing committee is calling for papers on any of these seven major categories:"
-guidelines2: "MSS 2021 aims to provide a platform for researchers with cross-disciplinary interests related to the above categories, to network, exchange ideas and interact with each other. All accepted abstracts will be featured in the conference programme e-booklet. The e-booklet will be distributed to all participants on the day of the event."
-
-# Abstract Block
-abstractTitle: "Abstract Submission and Acceptance"
-abstract1: "Please prepare your abstract according to the guidlines."
-abstractButtons1:
-  - {permalink: "/assets/Abstract_Guidelines.pdf", text: "Abstract Guidelines"}
-abstract2: "Once abstract is prepared according to the guidelines:"
-abstractSubmissionSteps:
-  - {step: "Submit your abstract through the online form <a href=\"https://forms.gle/8Nqd75EHrqUMTLQp9\">here</a>"}
-  - {step: "Please fill in all fields in the online form accurately"}
-  - {step: "Abstract authors will be acknowledged of the receipt of abstract via email within 5 working days."}
-abstract3: "If your abstract is accepted for oral/poster/PechaKucha presentation, the next steps are as follows:"
-abstractNextSteps:
-  - {step: "Abstract authors will be notified via email that their abstract has been reviewed and accepted for presentation."}
-  - {step: "Authors will be supplied with more information regarding presentation format, content, etc. via email."}
-  - {step: "Accepted presenters must adhere to corresponding deadlines and guidelines, and should respond to communication."}
-  - {step: "Contact the MSS 2021 Editorial Board at <a href=\"mailto:mum-sciencesymposium@monash.edu\">mum-sciencesymposium@monash.edu</a> should you not receive an acknowledgement email within 5 working days after abstract submission or for any other inquiries."}
-abstract4: "Please click below for the guidelines:"
-abstractButtons2:
- - {permalink: "/assets/Oral_Presentation_Guidelines.pdf", text: "Oral Presentation"}
- - {permalink: "/assets/Poster_Guidelines.pdf", text: "Poster"}
- - {permalink: "/assets/Pecha_Kucha_Guidelines.pdf", text: "Pecha Kucha"}
-
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
--
-  name: "Early Bird"
-  price: "400"
-  priceCurrency: "RM"
-  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
-  buyButtonText: "Register Now"
-  validFrom: "2020-04-31T10:00 AM"
-  validThrough: "2020-08-31T10:00 PM"
-  additionalInfo: "Only for students and academics"
-  featured: true
-  soldOut: false
-  SoldOutText: "SoldOut"
--
-  name: "Normal"
-  price: "450"
-  priceCurrency: "RM"
-  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
-  buyButtonText: "Register Now"
-  validFrom: "2020-08-31T10:00 PM"
-  validThrough: "2021-01-31T10:00 PM"
-  additionalInfo: "Only for students and academics"
-  disabled: true
--
-  name: "Industry"
-  price: "600"
-  priceCurrency: "RM"
-  buyButtonLink: "https://forms.gle/8Nqd75EHrqUMTLQp9"
-  buyButtonText: "Register Now"
-  validFrom: "2020-04-31T10:00 AM"
-  validThrough: "2021-01-31T10:00 PM"
-
-# Footer
-socialLinks:
-  - {link: "https://twitter.com/mss_mum", icon: "twitter"}
-  - {link: "https://linkedin.com/in/monash-science-symposium-790b301a1", icon: "linkedin"}
-  - {link: "https://www.instagram.com/monash.sciencesymposium/", icon: "instagram"}
-  - {link: "https://www.facebook.com/monashsciencesymposium/", icon: "facebook"}
-footerBlocks:
- -
-  title: "Contact"
-  links:
-   - {link: "mailto:mum-sciencesymposium@monash.edu", text: "mum-sciencesymposium@monash.edu"}
-
-# Sponsorship Tiers Block
-sponsorshipTiersTitle: "Sponsorship Tiers"
-sponorshipTiersNote1: "*If you are only interested in selling merchandise (minimum 200 pieces), which comes with an acknowledgement in the program booklet, please contact _________"
-sponorshipTiersNote2: "*Note that the program booklets will be hardcopies for distinguished guests and softcopies for participants"
-sponsorshipTiers:
- -
-  name: "Bronze"
-  benefitList: ["Acknowledgement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths"]
-  headerBackgroundColor: "rgb(142,112,104,0.4)"
-  headerTextColor: "#333333"
- -
-  name: "Silver"
-  benefitList: ["Quarter-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms once every fortnight (Facebook, Instagram, Twitter)", "Acknowledgement of company on website"]
-  headerBackgroundColor: "rgb(141,198,197,0.4)"
-  headerTextColor: "#333333"
- -
-  name: "Gold"
-  benefitList: ["Half-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms once a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Shared booth for 3 days"]
-  headerBackgroundColor: "rgb(255,206,0,1.0)"
-  headerTextColor: "#333333"
- -
-  name: "Platinum"
-  benefitList: ["Full-page advertisement in program booklet", "Advertisement on TV screens throughout the Monash campus (every 20 minutes)", "Logos on photo booths and banners", "Shoutouts on social media platforms twice a week (Facebook, Instagram, Twitter)", "Acknowledgement of company on website", "Largest exhibition booth for 3 days", "Logo printed on pendrives which will be given to all participants", "Industrial speaker of company’s choice"]
-  headerBackgroundColor: "rgb(211,21,91,1.0)"
-  headerTextColor: "#ffffff"
-
 # Blog
 #blogTitle: "Latest news"
 #blogCommentsEnabled: true
@@ -299,13 +198,6 @@ directionDetailsCards:
 # # Hackathon
 # hackathonTitle: "Hackathon"
 # enableHackathon: true
-
-# # Hackathon About Block
-# aboutHackathonTitle: "Meet our themes"
-# hackathonRows:
-#  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
-#  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
-#  - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
 # # Hackathon Judges Block
 # judgesImage: "judges.jpg"
