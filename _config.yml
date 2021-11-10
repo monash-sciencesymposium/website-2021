@@ -65,17 +65,6 @@ miniSeriesPoster:
 miniSeriesButtons:
  - {permalink: "/mini-science-series", text: "Learn about the speakers"}
 
-# Categories Block
-categoriesTitle: "7 Categories"
-categoriesBlock:
- - {text: "Cellular Biology and Biochemistry", image: "category_logo_cellular_biology.png"}
- - {text: "Chemistry and Drug Discovery", image: "category_logo_chemistry.png"}
- - {text: "Applied Microbiology", image: "category_logo_microbiology.png"}
- - {text: "Science Safety and Communication", image: "category_logo_combo.png"}
- - {text: "Genomics and Bioinformatics", image: "category_logo_genomics_and_bioinformatics.png"}
- - {text: "Food Science and Technology", image: "category_logo_foodscience.png"}
- - {text: "Environmental Science", image: "category_logo_environmental.png"}
-
 #Key Dates Block
 keyDatesBlockImage: "key-dates.jpg"
 keyDates:
@@ -157,6 +146,23 @@ teamBlockTitle: "Meet the Team"
 history1: "MSS was first held in 2013 as a gathering of local science graduate research students to share and discuss their research findings. Since then, it has grown in size and scope to include the student community of other local and international universities and research institutes. True to the Monash motto “<em>Ancora Imparo</em>”, the Symposium aims to enhance the science learning experience by encouraging knowledge exchange between researchers, promoting local research work, exploring potential collaborations, and fostering closer ties with other research universities."
 history2: "In 2014, the Symposium has registered more than 150 student participants, half of which represent participants from 9 other different local universities/research institutes. In 2016, the symposium was held with more registered participants, including external participants who were from 13 universities and a government agency. A new scope was introduced in MSS 2016, covering a total of 6 major life sciences branches and were presented over 3-day periods. The Symposium had received overwhelming positive feedback from the participants. In 2018, an intervarsity symposium which served as a promotional event to highlight the capabilities of HDR students of Monash University Malaysia in producing quality research outputs and the dissemination of their scientific findings to a broader audience."
 history3: "For MSS 2021, we intend to continue the legacy by making the event bigger as well as introduce a new science category, “Science Communication and Safety”. We also intend to encourage supervisors/lecturers to partake in MSS 2021 as the scientific committee which would assist in the abstract screening process.  We therefore propose for an intervarsity symposium to be held for the graduate research students, staff and company agencies."
+
+# Footer
+socialLinks:
+  - {link: "https://twitter.com/mss_mum", icon: "twitter"}
+  - {link: "https://linkedin.com/in/monash-science-symposium-790b301a1", icon: "linkedin"}
+  - {link: "https://www.instagram.com/monash.sciencesymposium/", icon: "instagram"}
+  - {link: "https://www.facebook.com/monashsciencesymposium/", icon: "facebook"}
+footerBlocks:
+ -
+  title: "Contact"
+  links:
+   - {link: "mailto:mum-sciencesymposium@monash.edu", text: "Email us"}
+ -
+  title: "Past events"
+  links:
+    - {link: "https://monashscience2018.jimdofree.com/", text: "MSS 2018"}
+    - {link: "https://monashscience.jimdofree.com/", text: "MSS 2016"}
 
 # Blog
 #blogTitle: "Latest news"
